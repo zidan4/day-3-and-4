@@ -1,7 +1,7 @@
 
 # Single line comment
 letter = 'P'                # A string could be a single character or a bunch of texts
-print(letter)               # P
+print(letter)               # P 
 print(len(letter))          # 1
 greeting = 'Hello, World!'  # String could be  a single or double quote,"Hello, World!"
 print(greeting)             # Hello, World!
