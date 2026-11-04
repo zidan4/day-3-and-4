@@ -43,7 +43,7 @@ print(e)  # o
 print(f)  # n
 
 # Accessing characters in strings by index
-language = 'Python'
+language = 'Python' 
 first_letter = language[0]
 print(first_letter)  # P
 second_letter = language[1]
