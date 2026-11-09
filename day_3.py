@@ -1,5 +1,5 @@
 # Arithmetic Operations in Python
-# Integers
+# Integers 
 
 print('Addition: ', 1 + 2)
 print('Subtraction: ', 2 - 1)
