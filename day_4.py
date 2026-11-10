@@ -1,5 +1,5 @@
 
-# Single line comment 
+# Single line comment
 letter = 'P'                # A string could be a single character or a bunch of texts
 print(letter)               # P
 print(len(letter))          # 1
