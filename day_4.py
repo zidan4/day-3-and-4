@@ -4,7 +4,7 @@ letter = 'P'                # A string could be a single character or a bunch of
 print(letter)               # P
 print(len(letter))          # 1
 greeting = 'Hello, World!'  # String could be  a single or double quote,"Hello, World!"
-print(greeting)             # Hello, World!
+print(greeting)             # Hello, World! 
 print(len(greeting))        # 13
 sentence = "I hope you are enjoying 30 days of python challenge"
 print(sentence)
